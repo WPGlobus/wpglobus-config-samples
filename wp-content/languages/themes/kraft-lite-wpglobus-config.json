@@ -1,0 +1,51 @@
+{
+  "version": "2",
+  "info": {
+    "type": "theme",
+    "name": "Kraft Lite",
+    "url": "https://wordpress.org/themes/kraft-lite/",
+    "version": "1.4.0"
+  },
+  "customize_texts": {
+    "header_details": {
+      "header_info": {
+        "type": "textarea"
+      }
+    },
+    "fist_section_content": {
+      "first_section": {
+        "type": "textarea"
+      }
+    },
+    "home_boxes": {
+      "column_one": {
+        "type": "textarea"
+      },
+      "column_two": {
+        "type": "textarea"
+      },
+      "column_three": {
+        "type": "textarea"
+      }
+    },
+    "footer_text": {
+      "about_title": {
+        "type": "text"
+      },
+      "about_description": {
+        "type": "textarea"
+      },
+      "footer_right": {
+        "type": "textarea"
+      }
+    },
+    "contact_sec": {
+      "contact_add": {
+        "type": "textarea"
+      },
+      "contact_no": {
+        "type": "text"
+      }
+    }
+  }
+}
