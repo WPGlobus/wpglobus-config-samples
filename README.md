@@ -1,2 +1,1 @@
-# wpglobus-config-samples
-WPGlobus configuration file examples
+# WPGlobus configuration file examples
