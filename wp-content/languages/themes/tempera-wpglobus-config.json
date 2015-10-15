@@ -1,0 +1,110 @@
+{
+  "version": "2",
+  "info": {
+    "type": "theme",
+    "name": "Tempera",
+    "url": "https://wordpress.org/themes/tempera/",
+    "version": "1.3.3"
+  },
+  "admin_texts": {
+    "tempera_columnreadmore": {
+      "type": "text"
+    },
+    "tempera_sliderimg1": {
+      "type": "url"
+    },
+    "tempera_slidertitle1": {
+      "type": "text"
+    },
+    "tempera_slidertext1": {
+      "type": "textarea"
+    },
+    "tempera_sliderlink1": {
+      "type": "url"
+    },
+    "tempera_sliderimg2": {
+      "type": "url"
+    },
+    "tempera_slidertitle2": {
+      "type": "text"
+    },
+    "tempera_slidertext2": {
+      "type": "textarea"
+    },
+    "tempera_sliderlink2": {
+      "type": "url"
+    },
+    "tempera_sliderimg3": {
+      "type": "url"
+    },
+    "tempera_slidertitle3": {
+      "type": "text"
+    },
+    "tempera_slidertext3": {
+      "type": "textarea"
+    },
+    "tempera_sliderlink3": {
+      "type": "url"
+    },
+    "tempera_sliderimg4": {
+      "type": "url"
+    },
+    "tempera_slidertitle4": {
+      "type": "text"
+    },
+    "tempera_slidertext4": {
+      "type": "textarea"
+    },
+    "tempera_sliderlink4": {
+      "type": "url"
+    },
+    "tempera_sliderimg5": {
+      "type": "url"
+    },
+    "tempera_slidertitle5": {
+      "type": "text"
+    },
+    "tempera_slidertext5": {
+      "type": "textarea"
+    },
+    "tempera_sliderlink5": {
+      "type": "url"
+    },
+    "tempera_fronttext1": {
+      "type": "text"
+    },
+    "tempera_fronttext2": {
+      "type": "textarea"
+    },
+    "tempera_fronttext3": {
+      "type": "text"
+    },
+    "tempera_fronttext4": {
+      "type": "textarea"
+    },
+    "tempera_excerptcont": {
+      "type": "text"
+    },
+    "tempera_social_title11": {
+      "type": "text"
+    },
+    "tempera_social_title33": {
+      "type": "text"
+    },
+    "tempera_social_title55": {
+      "type": "text"
+    },
+    "tempera_social_title77": {
+      "type": "text"
+    },
+    "tempera_social_title99": {
+      "type": "text"
+    },
+    "tempera_copyright": {
+      "type": "textarea"
+    },
+    "tempera_customcss": {
+      "type": "textarea"
+    }
+  }
+}
