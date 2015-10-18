@@ -1,0 +1,25 @@
+{
+  "version": "2",
+  "info": {
+    "type": "theme",
+    "name": "Parallax One",
+    "url": "http://themeisle.com/themes/parallax-one/",
+    "version": "2.0.6"
+  },
+  "customize_texts": {
+    "parallax_one_header_content": {
+      "parallax_one_header_title": {
+        "type": "text"
+      },
+      "parallax_one_header_subtitle": {
+        "type": "text"
+      },
+      "parallax_one_header_button_text": {
+        "type": "text"
+      },
+      "parallax_one_header_button_link": {
+        "type": "url"
+      }
+    }
+  }
+}
