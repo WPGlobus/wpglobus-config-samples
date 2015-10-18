@@ -1,1 +1,3 @@
 # WPGlobus configuration file examples
+
+[![Latest Stable Version](https://poser.pugx.org/wpglobus/wpglobus-config-samples/v/stable)](https://packagist.org/packages/wpglobus/wpglobus-config-samples) [![Total Downloads](https://poser.pugx.org/wpglobus/wpglobus-config-samples/downloads)](https://packagist.org/packages/wpglobus/wpglobus-config-samples) [![Latest Unstable Version](https://poser.pugx.org/wpglobus/wpglobus-config-samples/v/unstable)](https://packagist.org/packages/wpglobus/wpglobus-config-samples) [![License](https://poser.pugx.org/wpglobus/wpglobus-config-samples/license)](https://packagist.org/packages/wpglobus/wpglobus-config-samples)
