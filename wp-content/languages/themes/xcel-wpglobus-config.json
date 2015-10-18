@@ -1,0 +1,30 @@
+{
+  "version": "2",
+  "info": {
+    "type": "theme",
+    "name": "Xcel",
+    "url": "https://wordpress.org/themes/xcel/",
+    "version": "1.0.9"
+  },
+  "customize_texts": {
+    "xcel-setting-blog": {
+      "xcel-setting-blog-title": {
+        "type": "text"
+      },
+      "xcel-setting-blog-cats": {
+        "type": "text"
+      }
+    },
+    "xcel-setting-website": {
+      "xcel-setting-website-error-head": {
+        "type": "text"
+      },
+      "xcel-setting-website-error-msg": {
+        "type": "textarea"
+      },
+      "xcel-setting-website-nosearch-msg": {
+        "type": "textarea"
+      }
+    }
+  }
+}
