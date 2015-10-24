@@ -1,0 +1,66 @@
+{
+  "version": "2",
+  "info": {
+    "type": "theme",
+    "name": "eVision Corporate",
+    "url": "https://wordpress.org/themes/evision-corporate/",
+    "version": "1.1.4"
+  },
+  "customize_texts": {
+    "evision-corporate-about": {
+      "coder_customizer-evision-corporate-about-main-title": {
+        "type": "text"
+      },
+      "coder_customizer-evision-corporate-about-main-content": {
+        "type": "textarea"
+      }
+    },
+    "evision-corporate-service": {
+      "coder_customizer-evision-corporate-service-main-title": {
+        "type": "text"
+      },
+      "coder_customizer-evision-corporate-service-main-content": {
+        "type": "textarea"
+      }
+    },
+    "evision-corporate-portfolio": {
+      "coder_customizer-evision-corporate-portfolio-main-title": {
+        "type": "text"
+      },
+      "coder_customizer-evision-corporate-portfolio-main-content": {
+        "type": "textarea"
+      }
+    },
+    "evision-corporate-testimonial": {
+      "coder_customizer-evision-corporate-testimonial-main-title": {
+        "type": "text"
+      }
+    },
+    "evision-corporate-blog": {
+      "coder_customizer-evision-corporate-blog-main-title": {
+        "type": "text"
+      }
+    },
+	"evision-corporate-team": {
+      "coder_customizer-evision-corporate-team-main-title": {
+        "type": "text"
+      },
+	  "coder_customizer-evision-corporate-team-main-content": {
+        "type": "textarea"
+      }	  
+    },
+	"evision-corporate-contact": {
+      "coder_customizer-evision-corporate-contact-main-title": {
+        "type": "text"
+      },
+	  "coder_customizer-evision-corporate-contact-cf7": {
+        "type": "text"
+      }	  
+    },
+	"evision-corporate-footer": {
+      "coder_customizer-evision-corporate-footer-copyright": {
+        "type": "text"
+      } 
+    }	
+  }
+}
