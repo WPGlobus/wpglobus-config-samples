@@ -1,0 +1,74 @@
+{
+  "version": "2",
+  "info": {
+    "type": "theme",
+    "name": "Foodeez Lite",
+    "url": "https://wordpress.org/themes/foodeez-lite/",
+    "version": "1.0.6"
+  },  
+  "customize_texts": {
+    "home_featured_section": {
+      "_fb1_first_part_heading": {
+        "type": "text"
+      },
+      "_fb1_first_part_content": {
+        "type": "textarea"
+      },
+	  "_fb1_first_part_link": {
+        "type": "url"
+      },
+      "_fb2_second_part_heading": {
+        "type": "text"
+      },
+      "_fb2_second_part_content": {
+        "type": "textarea"
+      },
+	  "_fb2_second_part_link": {
+        "type": "url"
+      },
+      "_fb3_third_part_heading": {
+        "type": "text"
+      },
+      "_fb3_third_part_content": {
+        "type": "textarea"
+      },
+	  "_fb3_third_part_link": {
+        "type": "url"
+      },
+      "_fb4_fourth_part_heading": {
+        "type": "text"
+      },
+      "_fb4_fourth_part_content": {
+        "type": "textarea"
+      },
+	  "_fb4_fourth_part_link": {
+        "type": "url"
+      }   
+    },
+    "home_parallax_section": {
+      "_para_content_left": {
+        "type": "textarea"
+      }	
+	},
+    "topbar_contact_settings": {
+      "_topbar_contact": {
+        "type": "text"
+      }	
+	},
+    "reservation_settings": {
+      "_rbtn_link": {
+        "type": "url"
+      }	
+	},
+    "blog_page_settings": {
+      "_blogpage_heading": {
+        "type": "text"
+      }	
+	},
+    "footer_settings": {
+      "_copyright": {
+        "type": "text"
+      }	
+	}
+  }
+}
