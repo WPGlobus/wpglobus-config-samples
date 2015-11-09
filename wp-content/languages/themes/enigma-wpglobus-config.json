@@ -1,0 +1,131 @@
+{
+  "version": "2",
+  "info": {
+    "type": "theme",
+    "name": "Enigma",
+    "url": "https://wordpress.org/themes/enigma/",
+    "version": "2.2"
+  },  
+  "customize_texts": {
+    "slider_sec": {
+      "enigma_slide_title_1": {
+        "type": "text"
+      },
+      "enigma_slide_desc_1": {
+        "type": "text"
+      },
+      "Slider button one": {
+        "type": "text"
+      },
+      "enigma_slide_btnlink_1": {
+        "type": "url"
+      },
+	  "enigma_slide_title_2": {
+        "type": "text"
+      },
+      "enigma_slide_desc_2": {
+        "type": "text"
+      },
+      "enigma_slide_btn_2": {
+        "type": "text"
+      },
+      "enigma_slide_btnlink_2": {
+        "type": "url"
+      },
+	  "enigma_slide_title_3": {
+        "type": "text"
+      },
+      "enigma_slide_desc_3": {
+        "type": "text"
+      },
+      "enigma_slide_btn_3": {
+        "type": "text"
+      },
+      "enigma_slide_btnlink_3": {
+        "type": "url"
+      }  
+	},
+	"service_section": {
+      "home_service_heading": {
+        "type": "text"
+      },
+	  "service_one_title": {
+        "type": "text"
+      },
+	  "service_one_text": {
+        "type": "text"
+      },
+	  "service_two_title": {
+        "type": "text"
+      },
+	  "enigma_service_two_text": {
+        "type": "text"
+      },
+	  "enigma_service_three_title": {
+        "type": "text"
+      },
+	  "enigma_service_three_text": {
+        "type": "text"
+      }
+	},
+	"portfolio_section": {
+      "enigma_portfolio_title": {
+        "type": "text"
+      },
+      "enigma_portfolio_title_1": {
+        "type": "text"
+      },
+      "enigma_portfolio_link_1": {
+        "type": "url"
+	  },
+      "enigma_portfolio_title_2": {
+        "type": "text"
+      },
+      "enigma_portfolio_link_2": {
+        "type": "url"
+	  },
+      "enigma_portfolio_title_3": {
+        "type": "text"
+      },
+      "enigma_portfolio_link_3": {
+        "type": "url"
+	  },
+      "enigma_portfolio_title_4": {
+        "type": "text"
+      },
+      "enigma_portfolio_link_4": {
+        "type": "url"
+	  }
+	},
+	"blog_section": {
+      "enigma_latest_post": {
+        "type": "text"
+	  }	
+	},
+	"callout_section": {
+      "fc_title": {
+        "type": "text"
+	  },
+	  "fc_btn_txt": {
+        "type": "text"
+	  },
+	  "fc_btn_link": {
+        "url": "text"
+	  }
+	},
+	"footer_section": {
+      "footer_customizations": {
+        "type": "text"
+	  },
+	  "developed_by_text": {
+        "type": "text"
+	  },
+	  "developed_by_weblizar_text": {
+        "type": "text"
+	  },
+	  "developed_by_link": {
+        "type": "url"
+	  }	  
+	}
+  }
+}
